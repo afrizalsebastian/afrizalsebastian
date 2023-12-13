@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing and Flutter**
 
--👨‍💻 [See My Portfolio](https://afrizalsebastian.netlify.app/)
+- 👨‍💻 [See My Portfolio](https://afrizalsebastian.netlify.app/)
 
 - 💬 Ask me about **React, Vue, and Expressjs**
 
